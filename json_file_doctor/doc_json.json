@@ -1,0 +1,95 @@
+
+    
+     [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "name": "Hari Kafle",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            "experience":"20",
+            "present_city":"Kathmandu",
+            "hospital":"Male"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "name": "Bishal Gawalli",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg",
+            "experience":"20",
+            "present_city":"Kathmandu",
+            "hospital":"Male"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "name": "Pradeep Kumar Wango",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg",
+            "experience":"20",
+            "present_city":"Chitwan",
+            "hospital":"Male"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "name": "Mukesh Yadav",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg",
+            "experience":"20",
+            "present_city":"Kathmandu",
+            "hospital":"Male"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "name": "George",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg",
+            "experience":"20",
+            "present_city":"Dharan",
+            "hospital":"Male"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "name": "Sumit Sah",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "experience":"20",
+            "present_city":"Kathmandu",
+            "hospital":"Male"
+        },
+        {
+            "id": 13,
+            "email": "rachel.howell@reqres.in",
+            "name": "Ishan Devkota",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "experience":"20",
+            "present_city":"Kathmandu",
+            "hospital":"Male"
+        },
+        {
+            "id": 14,
+            "email": "rachel.howell@reqres.in",
+            "name": "Prabesh",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "experience":"20",
+            "present_city":"Kathmandu",
+            "hospital":"Male"
+        },
+        {
+            "id": 15,
+            "email": "rachel.howell@reqres.in",
+            "name": "Rachel Green",
+            
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+            "experience":"20",
+            "present_city":"Kathmandu",
+            "hospital":"Female"
+        }
+    ]
+
